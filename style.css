@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    background-color: #3498db;
+    padding: 5rem 10rem;
+}
+.container{
+    min-width: 20rem;
+    width:70vw;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
